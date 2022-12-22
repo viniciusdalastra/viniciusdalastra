@@ -1,5 +1,8 @@
 # Vinicius Dalastra
-
+<div>
+  <a href="https://www.linkedin.com/in/dalastraa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/dalastraa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 ### Analyst & Developer Full Stack
 
 I've been working with web development for public management for over 8 years and now I'm working with a payment platform for e-commerce development.
@@ -14,9 +17,3 @@ I have a bachelor's degree in Information Systems and a postgraduate degree in s
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer        | 2018 - 2020   |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer "CORE" | 2021 - 2022   |
 | <img width="40" src="https://i.postimg.cc/c4408xFS/logo-magazord.png" title="MAGAZORD" />| Developer FullStack                    | 2022 - Now    |
-
-### Contact
-<div>
-  <a href="https://www.linkedin.com/in/dalastraa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/dalastraa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
