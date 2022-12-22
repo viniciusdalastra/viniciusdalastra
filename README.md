@@ -17,4 +17,4 @@ I have a bachelor's degree in Information Systems and a postgraduate degree in s
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Backend Developer                                    | 2015 - 2018   |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer                      | 2018 - 2019   |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer - Research Tecnology | 2020 - 2022   |
-| <img width="40" src="https://i.postimg.cc/c4408xFS/logo-magazord.png" title="MAGAZORD" />| FullStack Developer                                  | 2022 - Now    |
+| <img width="40" src="https://i.postimg.cc/c4408xFS/logo-magazord.png" title="MAGAZORD" />| FullStack Developer                                  | 2023 - Now    |
