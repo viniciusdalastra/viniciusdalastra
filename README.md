@@ -11,7 +11,7 @@ I've been working with web development for public management for over 8 years an
 
 I have a bachelor's degree in Information Systems and a postgraduate degree in systems analysis and development and also in Information Security.
 
-### Experiências Profissionais:
+### Professional Experiences:
 
 | #                                                                                        | Role                                                 | Year          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------- |
