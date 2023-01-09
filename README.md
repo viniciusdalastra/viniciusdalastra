@@ -5,7 +5,7 @@
   <a href="https://viniciusdalastra.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-### Analyst & Developer Full Stack
+### Developer Full Stack
 
 I've been working with web development for public management for over 8 years and now I'm working with a payment platform for e-commerce development.
 
