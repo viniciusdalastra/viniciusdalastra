@@ -7,7 +7,7 @@
 
 ### Developer Full Stack
 
-I've been working with web development for public management for over 8 years and now I'm working with a development of gateway payment for e-commerce development.
+I've been working with web development for public management for over 8 years and now I'm working with a development of gateway payment for e-commerce plataform.
 
 I have a bachelor's degree in Information Systems and a postgraduate degree in systems analysis and development and also in Information Security.
 
