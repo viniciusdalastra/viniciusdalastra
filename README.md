@@ -19,7 +19,7 @@ I have a bachelor's degree in Information Systems and a postgraduate degree in s
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer                      | 2018 - 2019   |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer - Research Tecnology | 2020 - 2022   |
 | <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" />      | QA and FullStack Developer                           | 2022 - Now    |
-| <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" />| FullStack Developer                                  | 2023 - Now    |
+| <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" />| FullStack Developer                                  | 2023 - 2023    |
 
 
 | Stack    | Tecnology |
