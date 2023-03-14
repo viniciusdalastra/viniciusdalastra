@@ -7,11 +7,13 @@
 
 ### Developer Full Stack
 
-I've worked with web development for public administration for over 8 years and I also carry out the architecture, design and development of payment gateway for e-commerce platform.
+I worked with web development for public administration for over 8 years and I also carry out the architecture, design and development of payment gateway for e-commerce platform.
 
-I'm currently working on multiple projects, with the biggest contract being an omnichannel one.
+I'm currently working on multiple projects at the same time, with the biggest being an omnichannel one. In this projects I use Typescript, Node.js, Nestjs, Angular, React, MongoDB and Postgres.
 
-I have a bachelor's degree in Information Systems and a postgraduate degree in systems analysis and development and also in Information Security.
+I have a bachelor's degree in Information Systems and a postgraduate degree in systems analysis and development and also in Information Security. 
+
+I am currently focused on improving my English level and increasing my knowledge with architecture and development using Typescript
 
 ### Professional Experiences:
 
