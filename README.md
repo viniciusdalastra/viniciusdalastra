@@ -24,6 +24,7 @@ I am currently focused on improving my English level and increasing my knowledge
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer - Research Tecnology | 2020 - 2022   |
 | <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" />| FullStack Developer                                  | 2023 - 2023    |
 | <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" />      | QA and FullStack Developer                           | 2022 - Now    |
+| <img width="40" src="https://visitantes.fiesc.com.br/images/logo.png" title="FIESC" />| Teacher - System Information                                  | 2023 - 2023    |
 | <img width="40" src="https://user-images.githubusercontent.com/18452259/224865203-7aaab1eb-d199-4e97-8ba5-82d373c147e4.png" title="OMNISMART" />| FullStack Developer                                  | 2023 - Now    |
 
 | Stack    | Tecnology |
