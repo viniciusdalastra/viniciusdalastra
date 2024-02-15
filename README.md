@@ -7,9 +7,15 @@
 
 ### Developer Full Stack
 
-I am an experienced full-stack developer with over 8 years of experience in web development for the governamental sector, as well as in the architecture, design, and implementation of payment gateways for e-commerce platforms. Currently, I am immersed in an omnichannel project, utilizing a variety of technologies such as Typescript, Node.js, Nestjs, Angular, React, MongoDB and AWS.
+I am an experienced full-stack developer with over 8 years of experience in web development for the public
+sector, as well as in the architecture, design, and implementation of payment gateways for e-commerce platforms.
+Currently, I am immersed in an omnichannel project, utilizing a variety of technologies such as Typescript,
+Node.js, Nestjs, Angular, React, MongoDB, and AWS.
 
-I hold a Bachelor's degree in Information Systems and a post-graduate degree in Systems Analysis and Information Security, providing me with a strong educational background. I am committed to continuous improvement and am currently focused on enhancing my skills in team leadership, as well as developing microservices-based systems with Node.js.
+I hold a Bachelor's degree in Information Systems and a post-graduate degree in Systems Analysis and
+Information Security, providing me with a strong educational background. I am committed to continuous
+improvement and am currently focused on enhancing my skills in team leadership, as well as developing
+microservices-based systems with Node.js.
 
 ### Professional Experiences:
 
