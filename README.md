@@ -5,9 +5,9 @@
   <a href="https://viniciusdalastra.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-### Developer Full Stack
+### Full Stack Engineer
 
-I am an experienced full-stack developer with over 8 years of experience in web development for the public
+I am an experienced full-stack engineer with over 8 years of experience in web development for the public
 sector, as well as in the architecture, design, and implementation of payment gateways for e-commerce platforms.
 Currently, I am immersed in an omnichannel project, utilizing a variety of technologies such as Typescript,
 Node.js, Nestjs, Angular, React, MongoDB, and AWS.
