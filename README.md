@@ -7,7 +7,7 @@
 
 ### Full Stack Engineer
 
-I am an experienced full-stack engineer with over 8 years of experience in web development for the public
+I am an experienced full-stack engineer with over 10 years of experience in web development for the public
 sector, as well as in the architecture, design, and implementation of payment gateways for e-commerce platforms.
 Currently, I am immersed in an omnichannel project, utilizing a variety of technologies such as Typescript,
 Node.js, Nestjs, Angular, React, MongoDB, and AWS.
@@ -21,13 +21,14 @@ microservices-based systems with Node.js.
 
 | #                                                                                        | Role                                                 | Year          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------- |
-| <img width="40" src="https://user-images.githubusercontent.com/18452259/224865203-7aaab1eb-d199-4e97-8ba5-82d373c147e4.png" title="OMNISMART" />| FullStack Engineer                                  | 2023 - Now    |
-| <img width="40" src="https://visitantes.fiesc.com.br/images/logo.png" title="FIESC" />| Teacher - System Information                                  | 2023 - 2023    |
-| <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" />      | QA and FullStack Developer                           | 2022 - 2023    |
-| <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" />| FullStack Developer                                  | 2023 - 2023    |
+| <img width="40" src="https://cdn.bitrix24.com/b7803013/landing/f9a/f9a8cae1a2eeef31cfda223ce9888cc6/KEEP_SIMPLE_3_1x.png" title="KEEP SIMPLE" />| FullStack Engineer | 2023 - 2024    |
+| <img width="40" src="https://user-images.githubusercontent.com/18452259/224865203-7aaab1eb-d199-4e97-8ba5-82d373c147e4.png" title="OMNISMART" />| Tech Lead and Fullstack | 2023 - 2024    |
+| <img width="40" src="https://fiesc.com.br/sites/default/files/inline-images/Marca_FIESC%20Fachadas_4.png" title="FIESC" />| Teacher - System Information | 2023 - 2024    |
+| <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" />      | QA and FullStack Developer | 2022 - 2023    |
+| <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" />| FullStack Developer | 2023 - 2023    |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Analyst and Fullstack Developer - Research Tecnology | 2020 - 2022   |
-| <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Tech Lead and Fullstack Developer                      | 2018 - 2019   |
-| <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Backend Developer                                    | 2015 - 2018   |
+| <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Tech Lead and Fullstack Developer | 2018 - 2019   |
+| <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | Backend Developer | 2015 - 2018   |
 
 
 ### Technologies:
