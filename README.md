@@ -21,7 +21,7 @@ microservices-based systems with Node.js.
 
 | #                                                                                        | Role                                                 | Year          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------- |
-| <img width="40" src="https://cdn.bitrix24.com/b7803013/landing/f9a/f9a8cae1a2eeef31cfda223ce9888cc6/KEEP_SIMPLE_3_1x.png" title="KEEP SIMPLE" />| FullStack Engineer | 2025 - NOW    |
+| <img width="40" src="https://github.com/user-attachments/assets/15c62117-4720-4d92-8c99-a5eaa465a563" title="UNIDAS" />| FullStack Engineer | 2025 - NOW    |
 | <img width="40" src="https://user-images.githubusercontent.com/18452259/224865203-7aaab1eb-d199-4e97-8ba5-82d373c147e4.png" title="OMNISMART" />| Tech Lead and Fullstack | 2023 - 2024    |
 | <img width="40" src="https://fiesc.com.br/sites/default/files/inline-images/Marca_FIESC%20Fachadas_4.png" title="FIESC" />| Teacher - System Information | 2023 - 2024    |
 | <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" />      | QA and FullStack Developer | 2022 - 2023    |
