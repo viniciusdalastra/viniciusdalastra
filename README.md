@@ -24,7 +24,7 @@ I’m passionate about **technical leadership**, **clean architecture**, and **c
 | <img width="40" src="https://github.com/user-attachments/assets/15c62117-4720-4d92-8c99-a5eaa465a563" title="UNIDAS" /> | **Senior Full Stack Engineer** | 2025 – Present |
 | <img width="40" src="https://user-images.githubusercontent.com/18452259/224865203-7aaab1eb-d199-4e97-8ba5-82d373c147e4.png" title="OMNISMART" /> | **Tech Lead & Full Stack Engineer** | 2023 – 2024 |
 | <img width="40" src="https://fiesc.com.br/sites/default/files/2023-06/Marca_FIESC%20Fachadas.png" title="FIESC" /> | **Information Systems Instructor** | 2023 – 2024 |
-| <img width="40" src="https://bullcode.com.br/favicon-32x32.png" title="BULLCODE" /> | **QA & Full Stack Developer** | 2022 – 2023 |
+| <img width="40" src="" title="BULLCODE" /> | **QA & Full Stack Developer** | 2022 – 2023 |
 | <img width="40" src="https://user-images.githubusercontent.com/18452259/221163329-60ba15bc-919d-44aa-acc0-30e0981b73b1.png" title="MAGAZORD" /> | **Full Stack Developer** | 2023 – 2023 |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | **Analyst & Full Stack Developer – R&D** | 2020 – 2022 |
 | <img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" /> | **Tech Lead & Full Stack Developer** | 2018 – 2019 |
