@@ -5,15 +5,13 @@
   </a>
 </div>
 
-### **Full Stack Engineer | Tech Lead**
+### Senior Software Engineer | Full Stack Specialist | Tech Lead
 
-I am a **Full Stack Engineer** with over **10 years of experience** in web development, working across public sector systems, e-commerce platforms, and payment gateway architectures.  
-My expertise covers the full software lifecycle — from system design and architecture to implementation, testing, and deployment.  
+I am a **Senior Full-Stack Software Engineer** with **over 10 years of experience** building and maintaining high-performance, scalable, and secure systems across multiple sectors — including public management, e-commerce, real-time communication platforms, omnichannel solutions, and large enterprise portals.
 
-Currently, I’m leading the development of an **omnichannel communication platform**, leveraging modern technologies such as **TypeScript, Node.js, NestJS, Angular, React, MongoDB,** and **AWS** to deliver secure, scalable, and high-performance systems.  
+I specialize in designing **distributed architectures**, **modernizing legacy systems**, optimizing **database performance**, and developing mission-critical applications that handle millions of operations with reliability and speed.
 
-I hold a **Bachelor’s degree in Information Systems** and **postgraduate degrees in Systems Analysis and Information Security**, providing a strong academic foundation.  
-I’m passionate about **technical leadership**, **clean architecture**, and **continuous improvement**, focusing on building distributed systems and mentoring engineering teams.
+Throughout my career, I have worked with a wide range of modern technologies such as **TypeScript, Node.js, NestJS, Angular, React, PostgreSQL, MongoDB, SQL Server, AWS, Azure, Docker**, and have deep experience with **microservices, API integrations, event-driven systems, webhooks, and real-time communication**.
 
 ---
 
@@ -38,13 +36,16 @@ I’m passionate about **technical leadership**, **clean architecture**, and **c
 
 ---
 
-### 💡 **Key Areas of Expertise**
-- Full Stack Development (Node.js, Angular, React, NestJS)
-- Cloud & DevOps (AWS, Azure, Docker, CI/CD)
-- Microservices Architecture & Scalable Systems
-- Team Leadership & Mentoring
-- RESTful APIs, WebSockets & System Integration
-- Software Engineering Best Practices (TDD, Clean Architecture, SOLID, Security)
+### 💡 Key Areas of Expertise
+- High-Performance Full Stack Development  
+- Microservices & Integration Architecture  
+- Cloud Computing (AWS & Azure)  
+- CI/CD, Docker, DevOps Practices  
+- Legacy Modernization & Scalable Architecture  
+- Real-Time Communication (WebSockets, event-driven systems)  
+- Database Optimization & Large-Scale Systems  
+- AI Integrations (GPT API)  
+- Technical Leadership & Mentoring  
 
 ---
 
